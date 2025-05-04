@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Premier degré</string>
+    <string name="title_app">Premier degré</string>
+    <string name="title_coefficient_a">Coefficient a:</string>
+    <string name="title_coefficient_b">Coefficient b:</string>
+    <string name="title_solution">Solution</string>
+    <string name="title_next">Suivant</string>
+    <string name="title_exit">Sortie</string>
+    <string name="title_result">Résultat:</string>
+
+</resources>
