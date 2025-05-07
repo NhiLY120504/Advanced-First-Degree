@@ -7,4 +7,8 @@
     <string name="title_next">Next</string>
     <string name="title_exit">Exit</string>
     <string name="title_result">Result:</string>
+    <string name="title_english">English</string>
+    <string name="title_vietnamese">Vietnamese</string>
+    <string name="title_french">French</string>
+    <string name="title_spanish">Spanish</string>
 </resources>

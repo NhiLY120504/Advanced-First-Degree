@@ -77,9 +77,49 @@
         android:text="@string/title_result" />
 
     <TextView
-        android:id="@+id/textView7"
+        android:id="@+id/txtResult"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#FFEB3B" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnEnglish"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="@string/title_english"
+            android:backgroundTint="@color/blue"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btnVietnamese"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="@string/title_vietnamese"
+            android:backgroundTint="@color/red"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btnFrench"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="@string/title_french"
+            android:backgroundTint="@color/yellow"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btnSpanish"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="@string/title_spanish"
+            android:backgroundTint="#4CAF50"
+            android:textSize="16sp" />
+    </LinearLayout>
+
 
 </LinearLayout>
